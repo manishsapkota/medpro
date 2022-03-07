@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623049127833",
+    "project_id": "medpro-13610",
+    "storage_bucket": "medpro-13610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623049127833:android:feed01fc8b335ddb2f0508",
+        "android_client_info": {
+          "package_name": "com.example.medpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623049127833-r3shgpkqahof2rn3f1pglvcs7m4r6u8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJsT01bUZS13ge9zuMwg366CwBnBYnBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623049127833-r3shgpkqahof2rn3f1pglvcs7m4r6u8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
